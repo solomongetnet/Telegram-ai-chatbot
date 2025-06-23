@@ -1,0 +1,4 @@
+DATABASE_URL="mysql://root:12345678@localhost:3306/telegram_bot"
+BOT_TOKEN="7406366246:AAHmpqkSRttHF_Ow5OAEmdfqkaGfeTVQ5n4"
+GEMINI_API_KEY = "AIzaSyBCahxgIvZgbgdemZVrGG8FALeSXlX5Scs"
+PORT = 3000
