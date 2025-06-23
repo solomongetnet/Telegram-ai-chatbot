@@ -1,4 +1,4 @@
-import { bot } from "../index";
+import { bot } from "../../index";
 import "dotenv/config";
 
 // Set Telegram webhook URL

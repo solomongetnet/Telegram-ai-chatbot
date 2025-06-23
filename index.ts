@@ -1,6 +1,6 @@
 import express, { Request, Response } from "express";
 import { Telegraf } from "telegraf";
-import { setWebhook } from "./helper/webhook";
+import { setWebhook } from "./src/helper/webhook";
 
 import { GoogleGenAI } from "@google/genai";
 import "dotenv/config";
